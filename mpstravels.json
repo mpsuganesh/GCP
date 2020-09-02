@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valiant-imagery-287512",
+  "private_key_id": "e6d2750fc130b34a048ef29597b0b89b5ee4132e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkbkxjsNa50dvF\nRYeZgl6mc4z8ccw+0L3mVeQVtEuk/I/VDsWgWjPB7SVM1cYemq+0pY+B+cRmkTzI\nA9Gfk+8Hn/yJOyfdRC/kQzJPplmGO8F7lmeorISrHrQRU6cdOgk0tDIDKtuUaIDN\nG2NUsGwW9MngPyki2aLFvPiAhW0C65r4dD83YWjq9pmMKxYqNFnyyV+vD27n5o4a\njwsfMZX8yub1R7qGfQKQ6fGFdPR48h/G7L+9ZLlwWGW6ctfSVnjEBp3/4FFqe52j\nroI0yRN9hqmlwIllGtdkGrdI9R4/9AUlhztso51Ecy50Pr1XvvQpSTobiRj+La/y\naQUDGD7tAgMBAAECggEADNPd0c5VLI+qnAAczoPJ7WZ5QRbh3ZgqxdPGcGqUweHV\n8OS4t9nA5M+8o70weDj/C3GtpqKgQxM+WswOGjw8NM0o6QrroOsKlnKokVz504Yp\nBhfq38e6VoKtoXh1XriK2k0RLujZ9lJNA1eZoyCaHUrnSEK7vGOE1r5XJR55Aewe\neHir5oF/00IdrawU7NGiqeJJP/HwzzeuoFIYv2OyXhmiPRS88hn9Z/NwGxx5HdOF\n640Sl3pxST7ie/zzrS3KOkimASWMccaKqUSK9KJyDQ+qCSRjbFkYOOTTrYEklvvS\njbygbzLfE0f2BEU4uVwDu+Q3qbZGP0IVh9Y4pLOpeQKBgQD2OiRAWfbCoL17Y5iq\nTCfjFhC41VpLpTVEPwUvldmCjFi3iYUNYO474SJ8h41K/nxUh2CULFBTOUSSLxr4\nFoFH7bOC2eV/KaqP37xfUBcrUwgtvGBHwUQbIl0nHHn7+fUIuezILs2XZc6zO8dE\n1Z7BGctTdBGD1QVKe5PLM84utQKBgQDtf1U9KVBm+NL0ipCJVUneu2fC0KbF7yIy\nMH27XaEP0Z84MCGf46Lg6kFtaAOTIO0Ssvdez9aYAeL2JGF6sCGt1RBTR9E3wRHa\nkJQgjPxtlSH6roQF+bXCQddmYS9/Z/cNs7UmRIKMdWmPbd9gigEZc47Vztwv9yNe\nLuhAgqE6WQKBgAMM/V3+v1vx+ecJeN7DSss5fsOLgS7mwR4zWbEZPjSr4H2Fqqxb\nwxfi1jaMx2did8/kTYIIeoZNc1gMVV01iiyF+W9pm7pTndVihEb6Cw9yW+uVJew9\nrMZZSqYtaCWDF1IgW5qvWcTCcikuWG21592koCxMh9sGTKZ7mX0vCyLxAoGBAK+M\nITtWIGIcpgGvsmpwqmuCZo3voHZJ7iLfCPDHoleJAIGNwiznG+vX+4idC5djDRl3\nQ7XHNr2hF1wNRChlrF9LUAfe29y0TzgZCgSNccCmLTmYaWnpS9pMxKSeTXeFJ23v\nWYTxuvWLi/1Cn4xCNdHUQs3zW3nw2SmyzmVwqS/xAoGAZVikvqZ+mSC37OOqGkgm\nUYXov67VGDU5nK6uWB4gJKGWhsJk12QBH3zdLJoF7af+3mJSc1u4j7/CUSCPfCpa\nwh+D04Mc0WuQqQs17Jrivd2GYYAfj74LUFMY+UziChQQDd52nIqcXyftkkiXPjPi\nIlmYHOLgK6qT5Nkz7Y9O21w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mpstravels@valiant-imagery-287512.iam.gserviceaccount.com",
+  "client_id": "114855553326028112916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mpstravels%40valiant-imagery-287512.iam.gserviceaccount.com"
+}
